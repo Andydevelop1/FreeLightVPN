@@ -1,4 +1,4 @@
-🚀 FreelightVPN v1.0.0 is officially launched!
+🚀 FreelightVPN is officially launched!
 
 📺 Free to use | Get traffic by watching ads
 🌍 Global acceleration | One-click connection to multiple high-speed nodes around the world
